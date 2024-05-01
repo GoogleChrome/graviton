@@ -35,7 +35,7 @@
     "comlink": "^4.0.0-alpha.10",
     "dat.gui": "^0.7.6",
     "ecstatic": "^4.1.2",
-    "ejs": "^2.6.1",
+    "ejs": "^3.1.10",
     "escape-string-regexp": "^2.0.0",
     "find": "^0.3.0",
     "glsl-deparser": "^1.0.0",
