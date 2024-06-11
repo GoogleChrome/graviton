@@ -56,10 +56,10 @@
     "rollup-plugin-node-resolve": "^4.2.3",
     "rollup-plugin-postcss": "^2.0.3",
     "rollup-plugin-terser": "^4.0.4",
-    "rollup-pluginutils": "^2.6.0",
+    "rollup-pluginutils": "^2.8.2",
     "travis-size-report": "^1.0.1",
     "tslint": "^5.16.0",
-    "typed-css-modules": "^0.4.2",
+    "typed-css-modules": "^0.9.1",
     "typescript": "^3.5.2"
   }
 }
